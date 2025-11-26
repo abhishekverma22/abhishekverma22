@@ -1,6 +1,9 @@
-# 💫 Hi 👋, I'm Abhishek Verma
+<div  align="center">
 
-### **Crafting seamless web experiences | Aspiring MERN Developer**
+# 💫 Hi 👋, I'm Abhishek Verma
+## Crafting seamless web experiences | Aspiring MERN Developer
+
+</div>
 
 
 ## 🌐 Socials:
