@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Abhishek Verma
 
-## **Crafting seamless web experiences | Aspiring MERN Developer**
+### **Crafting seamless web experiences | Aspiring MERN Developer**
 
-Email Me 👉 ✉️ **vermaabhishekabhi22@gamil.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vermaabhishekabhi22@gamil.com**
 
 
 ## 🌐 Socials:
