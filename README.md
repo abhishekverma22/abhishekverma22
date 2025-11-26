@@ -1,18 +1,9 @@
 # 💫 Hi 👋, I'm Abhishek Verma
 
-**Igniting ideas with code: Passionate full-stack web developer crafting tomorrow's digital dreams.**
+## **Crafting seamless web experiences | Aspiring MERN Developer**
 
 Email Me 👉 ✉️ **vermaabhishekabhi22@gamil.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** GlimmerGrid - Jewellery Inventory Managment System
-
-- 🌱 **I’m currently learning:** Backend 
-
-- 💬 **Ask me about:** Collaboration, Tech Support
-
-- 😄 **Call me:** Pratham 
-
-- ⚡ **Fun fact:** GYM | CODE | EXPLORE | SLEEP 😄
 
 ## 🌐 Socials:
 
