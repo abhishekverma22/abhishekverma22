@@ -2,8 +2,6 @@
 
 ### **Crafting seamless web experiences | Aspiring MERN Developer**
 
-Email Me 👉 ✉️ **vermaabhishekabhi22@gamil.com**
-
 
 ## 🌐 Socials:
 
