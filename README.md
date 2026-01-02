@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-verma-mern) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaabhishekabhi22@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=web&logoColor=white)](https://abhishek-verm-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=web&logoColor=white)](https://abhishekverma-portfolio.vercel.app/)
 
 <!-- Snake Game Repo View -->
 
